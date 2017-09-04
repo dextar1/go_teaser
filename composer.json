@@ -2,6 +2,7 @@
     "name": "gosign/go_teaser",
     "description": "This is basic Teaser TYPO3 ext",
     "type": "typo3-cms-extension",
+    "version": "1.0.1",
     "require": {
         "php": "7.1.*",
         "typo3/cms": "^8",

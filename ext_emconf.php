@@ -18,7 +18,7 @@ $EM_CONF[$_EXTKEY] = array (
 	'author_email' => 'usman.ahmad@gosign.de',
 	'state' => 'stable',
 	'clearCacheOnLoad' => 1,
-	'version' => '1.0.0',
+	'version' => '1.0.1',
 	'constraints' =>
 	array (
 		'depends' =>
