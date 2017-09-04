@@ -1,0 +1,17 @@
+{
+    "name": "gosign/go_teaser",
+    "description": "This is basic Teaser TYPO3 ext",
+    "type": "typo3-cms-extension",
+    "require": {
+        "php": "7.1.*",
+        "typo3/cms": "^8"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Usman Ahmad",
+            "email": "usman.ahmad@gosign.de"
+        }
+    ],
+    "minimum-stability": "stable"
+}
